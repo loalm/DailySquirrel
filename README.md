@@ -20,6 +20,7 @@ Although votes from fake persons or identity theft is still a possible problem.
 - Create own ethereum token
 
 
-###
+### FAQ: 
 
-FAQ: Why store the images on IPFS and not directly on the ethereum blockchain? This would be too expensive! We have to pay for each kB of data we store on ethereum. 
+**Q**: Why store the images on IPFS and not directly on the ethereum blockchain? 
+**A**: This would be too expensive! We have to pay for each kB of data we store on ethereum. 
