@@ -19,8 +19,6 @@ This would make the ranking system more transparent and harder to tamper with.
 
 It would also show that no image is ever edited or deleted once it is put on the blockchain.
 
-It would reduce human malice by making every action taken visible to the entire network. 
-
 Although votes from fake persons or identity theft is still a possible problem, we would need some other mechanism to prevent this.
 
 - Create own ethereum token
