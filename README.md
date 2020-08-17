@@ -11,7 +11,7 @@ IPFS Benefits: Decentralized file storage, No server costs, All images are given
 
 Link: ipfs.io
 
-- **Add an ethereum smart contract which stores the rankings and hashes of each image as well as the votes that every person has made** 
+- **Add an ethereum smart contract which stores the rankings and hashes of each image and possibly the votes that every person has made** 
 
 (Each person could be identified with their name or username).
 
