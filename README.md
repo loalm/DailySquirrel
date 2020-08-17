@@ -10,3 +10,5 @@ The purpose of this app is to rank images of squirrels and to upload new ones.
 This would allow anyone to verify that no image has ever been tampered with. 
 
 - Create own ethereum token
+
+- Upload the images to IPFS Inter Planetary File System
