@@ -21,11 +21,15 @@ It would also show that no image is ever edited or deleted once it is put on the
 
 Although votes from fake persons or identity theft is still a possible problem, we would need some other mechanism to prevent this.
 
-- Create own ethereum token
-
 
 ### FAQ: 
 
 **Q**: Why store the images on IPFS and not directly on the ethereum blockchain? 
 
 **A**: This would be too expensive! We have to pay for each kB of data we store on ethereum. 
+
+
+### Remaining problems:
+
+- How to remove non-squirrel images from the app?
+
