@@ -2,6 +2,10 @@
 
 The purpose of this app is to rank images of squirrels and to upload new ones.
 
+- Squirrel must be alive
+- Squirrel must be free
+- Photo must be taken by user
+
 
 ### Future Improvements
 
