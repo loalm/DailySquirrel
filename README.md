@@ -9,9 +9,13 @@ The purpose of this app is to rank images of squirrels and to upload new ones.
 
 Link: ipfs.io
 
-- Add an ethereum smart contract which stores the rankings of each image together with the hash of each image
+- Add an ethereum smart contract which stores the rankings and hashes of each images as well as the votes that every person has made (each persons could be identified with their name or username).
 
-This would allow anyone to verify that no image has ever been tampered with. 
+This would make the ranking system more transparent and harder to tamper with. 
+
+It would also show that no image is ever edited or deleted once it is put on the blockchain.
+
+Although votes from fake persons or identity theft is still a possible problem.
 
 - Create own ethereum token
 
