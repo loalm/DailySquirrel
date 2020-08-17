@@ -6,4 +6,4 @@ The purpose of this app is to rank images of squirrels and to upload new ones.
 ### Future Improvements
 
 - Add a decentralized database on the ethereum blockchain
-- Create own token
+- Create own ethereum token
